@@ -1,3 +1,5 @@
+<img width="1685" height="500" alt="Cover" src="https://github.com/user-attachments/assets/b22c14e8-b0e9-4cf1-a456-861180d2b5b8" />
+
 # 🖥️ SYS IO
 
 > ⚡ A powerful real-time system information tool for monitoring your PC hardware and performance.
